@@ -3,7 +3,7 @@
  var answer
  
  var message;
- if(answer === nunber){
+ if(answer === number){
  message = `あたり!`;
 }else if (answer < nunber){
  message =`残念！もっと大きいです`
